@@ -30,7 +30,6 @@ Welcome to the **OCR Application**, a powerful web-based tool that lets you uplo
 - [Technical Stack](#technical-stack)
 - [Sample Output](#sample-output)
 - [Connect With Me](#connect-with-me)
-- [License](#license)
 
 ---
 
