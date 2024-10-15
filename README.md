@@ -10,6 +10,8 @@ Welcome to the **OCR Application**, a powerful web-based tool that lets you uplo
 
 ---
 
+
+
 ## 🚀 Features at a Glance
 
 - **Dual-language OCR**: Extracts text from images in both **Hindi** and **English**.
@@ -176,6 +178,10 @@ Description: This is the sample image used for OCR processing in English and Hin
 **Look at this!** The OCR has detected and highlighted the keywords perfectly. 🎉
 
 ---
+
+## Copywrite :
+
+Vaishnavi Pravin Talekar ( Owner )
 
 ## 🌐 Connect With Me
 
